@@ -1,0 +1,48 @@
+.cart-image{
+    width: 250px;
+}
+.cart{
+    display: flex;
+}
+.cart > div {
+    
+    line-height: 75px;
+}
+.cart-description {
+    margin-left: 50px;
+}
+.cityname-desc {
+    margin-top: -65px;
+    font-weight: bold;
+}
+.type {
+    margin-top: -40px;
+}
+.bike-price {
+    margin-top: -65px;
+    font-weight: bold;
+}
+.cart-descriptionside {
+    display: flex;
+}
+.type {
+    color: grey;
+}
+.advance {
+    margin-left: 100px;
+    margin-top: 80px;
+    color: grey;
+}
+.amount {
+    margin-top: -65px;
+    margin-left: 100px;
+    font-weight: bold;
+}
+.amount-desc{
+    margin-top: -65px;
+    margin-left: 100px;
+    color: grey;
+}
+.city-head {
+    color: grey;
+}

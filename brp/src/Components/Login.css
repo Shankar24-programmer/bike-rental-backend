@@ -1,0 +1,15 @@
+.divider:after,
+.divider:before {
+  content: "";
+  flex: 1;
+  height: 1px;
+  background: #eee;
+}
+.loginMain {
+    margin-left: 300px;
+    width: 500px;
+    height: 100px;
+}
+.login-form {
+    margin-top: 100px;
+}

@@ -1,0 +1,56 @@
+.title{
+    text-align: center;
+    margin-top: 50px;
+}
+.card-title1 {
+    font-weight: bold;
+    color: black;
+}
+.card-text1 {
+    font-weight: bold;
+    color: black;
+}
+.card-body1 {
+    background-color:rgba(0, 0, 0, 0.027);
+    border-radius: 10px;
+    margin-top: 70px;
+    margin-left: 180px;
+    width: 500px;
+    height: 160px;
+    padding:20px;
+}
+.card-body2 {
+    background-color:rgba(0, 0, 0, 0.027);
+    border-radius: 10px;
+    margin-left: 730px;
+    width: 500px;
+    height: 160px;
+    padding:20px;
+    margin-top:-160px;
+}
+.card-body3 {
+    background-color:rgba(0, 0, 0, 0.027);
+    border-radius: 10px;
+    margin-top: 70px;
+    margin-left: 180px;
+    width: 500px;
+    height: 160px;
+    padding:20px;
+}
+.card-body4 {
+    background-color:rgba(0, 0, 0, 0.027);
+    border-radius: 10px;
+    margin-left: 730px;
+    width: 500px;
+    height: 160px;
+    padding:20px;
+    margin-top:-160px;
+}
+.icon1 {
+    width: 30px;
+    height: 30px;
+}
+.icon2{
+    width: 30px;
+    height: 30px;
+}
